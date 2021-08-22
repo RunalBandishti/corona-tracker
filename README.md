@@ -1,5 +1,7 @@
 # corona-tracker
 ***Live Demo at***:https://runalbandishti.github.io/corona-tracker/
+
+
 ###FYI:The API used in this project has stopped displaying daily data,else it nnow only displays the data from USA.
 
 Full project at react-projects Repo
